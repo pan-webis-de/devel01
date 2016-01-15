@@ -2,7 +2,7 @@
 
 This is a reimplementation of the approach to authorship attribution originally described in
 
-> O. de Vel, A. Anderson, M. Corney, and G. Mohay. [Mining e-mail content for author identification forensics](http://eprints.qut.edu.au/8019/1/8019.pdf). SIGMOD Record, 30(4), 55-64, 2001 [[paper](http://eprints.qut.edu.au/8019/1/8019.pdf)]
+> Olivier de Vel, Alison M. Anderson, Malcolm W. Corney, and George M. Mohay. [Mining e-mail content for author identification forensics](http://eprints.qut.edu.au/8019/1/8019.pdf). SIGMOD Record, 30(4), 55-64, 2001 [[paper](http://eprints.qut.edu.au/8019/1/8019.pdf)]
 
 It was reimplemented as part of a science reproducibility study alongside [14 other authorship attribution approaches](https://github.com/search?q="Who+wrote+the+web"+user:pan-webis-de). The results of the reproducibility study can be found in
 
